@@ -1,0 +1,28 @@
+name: AlternativeInvestments
+favicon: null
+layout_spectrum: 0.8429346194025129
+typography_spectrum: 0.9948536714073271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9925602292641997
+  lightness: 0.21133447787724435
+  saturation: 0.9871123414486647
+  rhythmicContrast: 0.45277286041527987
+purpose: []
